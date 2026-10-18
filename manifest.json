@@ -1,7 +1,7 @@
 {
   "payload": {
     "schema": 1,
-    "published_at": "2026-10-18T19:32:24.448491+00:00",
+    "published_at": "2026-10-18T20:10:22.897824+00:00",
     "app_version": 8,
     "data_version": "20261018",
     "minimum_version": 1,
@@ -23,7 +23,7 @@
         "user_visible": false
       },
       "squad_config": {
-        "title": "squad_config",
+        "title": "Regole e parametri squadra",
         "user_visible": true
       },
       "listone_analitico": {
@@ -43,8 +43,8 @@
         "user_visible": false
       },
       "rose_lega": {
-        "title": "rose_lega",
-        "user_visible": false
+        "title": "Rose della lega",
+        "user_visible": true
       },
       "analisi_rose_lega": {
         "title": "Analisi Rose Lega",
@@ -59,8 +59,8 @@
         "user_visible": false
       },
       "scambi": {
-        "title": "scambi",
-        "user_visible": false
+        "title": "Scambi",
+        "user_visible": true
       },
       "mia_squadra": {
         "title": "La Mia Squadra",
@@ -79,8 +79,8 @@
         "user_visible": true
       },
       "rosa_pre_mercato": {
-        "title": "rosa_pre_mercato",
-        "user_visible": false
+        "title": "Rosa prima del mercato",
+        "user_visible": true
       },
       "rosa_pre_mercato_storico": {
         "title": "rosa_pre_mercato_storico",
@@ -95,24 +95,24 @@
         "user_visible": true
       },
       "asta_svincolati": {
-        "title": "asta_svincolati",
-        "user_visible": false
+        "title": "Asta svincolati",
+        "user_visible": true
       },
       "audit_asta_guidata": {
         "title": "audit_asta_guidata",
         "user_visible": false
       },
       "svincoli_consigliati": {
-        "title": "svincoli_consigliati",
-        "user_visible": false
+        "title": "Svincoli consigliati",
+        "user_visible": true
       },
       "piano_asta": {
-        "title": "piano_asta",
-        "user_visible": false
+        "title": "Piano asta",
+        "user_visible": true
       },
       "dizionario_statistiche": {
         "title": "dizionario_statistiche",
-        "user_visible": false
+        "user_visible": true
       },
       "dati": {
         "title": "dati",
@@ -199,9 +199,8 @@
         "expires": "2027-10-18",
         "revoked": false
       }
-    ],
-    "app_version_label": "5.2.1"
+    ]
   },
-  "signature": "p8UzPiwph2+Ui1xxB6FnYV5H1DoptpnFKctKDTPNdfr5r8fnlappid2z/guAmg8eFiv//Fbet6MCBFkR0nsDDg==",
+  "signature": "NJG7KwuCKv5CLXb0fzRRFuWO3NAawPdGoEloTGEefiz7PSqtaigIdZ4WGl6Vlvl+tTXtJpI7s8yQYL5Zt04VBA==",
   "algorithm": "Ed25519"
 }
