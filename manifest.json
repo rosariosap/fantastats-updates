@@ -1,0 +1,206 @@
+{
+  "payload": {
+    "schema": 1,
+    "published_at": "2026-10-18T10:16:28.006209+00:00",
+    "app_version": 5,
+    "data_version": "20261018",
+    "minimum_version": 1,
+    "pages": {
+      "engine_health": {
+        "title": "engine_health",
+        "user_visible": false
+      },
+      "audit_modello": {
+        "title": "audit_modello",
+        "user_visible": false
+      },
+      "listone": {
+        "title": "listone",
+        "user_visible": false
+      },
+      "mapping": {
+        "title": "mapping",
+        "user_visible": false
+      },
+      "squad_config": {
+        "title": "squad_config",
+        "user_visible": true
+      },
+      "listone_analitico": {
+        "title": "Statistiche Complete",
+        "user_visible": true
+      },
+      "player_view": {
+        "title": "Statistiche Giocatore",
+        "user_visible": true
+      },
+      "confronto_giocatori": {
+        "title": "Confronto Giocatori",
+        "user_visible": true
+      },
+      "rose_lega_import": {
+        "title": "rose_lega_import",
+        "user_visible": false
+      },
+      "rose_lega": {
+        "title": "rose_lega",
+        "user_visible": false
+      },
+      "analisi_rose_lega": {
+        "title": "Analisi Rose Lega",
+        "user_visible": true
+      },
+      "trade_advisor": {
+        "title": "Trade Advisor",
+        "user_visible": true
+      },
+      "rose_lega_storico": {
+        "title": "rose_lega_storico",
+        "user_visible": false
+      },
+      "scambi": {
+        "title": "scambi",
+        "user_visible": false
+      },
+      "mia_squadra": {
+        "title": "La Mia Squadra",
+        "user_visible": true
+      },
+      "moduli_mantra": {
+        "title": "Moduli Mantra",
+        "user_visible": true
+      },
+      "formazione_ottimale": {
+        "title": "Formazione Ottimale",
+        "user_visible": true
+      },
+      "analisi_rosa": {
+        "title": "Analisi Rosa",
+        "user_visible": true
+      },
+      "rosa_pre_mercato": {
+        "title": "rosa_pre_mercato",
+        "user_visible": false
+      },
+      "rosa_pre_mercato_storico": {
+        "title": "rosa_pre_mercato_storico",
+        "user_visible": false
+      },
+      "svincolati": {
+        "title": "Svincolati",
+        "user_visible": true
+      },
+      "mercato": {
+        "title": "Mercato Generale",
+        "user_visible": true
+      },
+      "asta_svincolati": {
+        "title": "asta_svincolati",
+        "user_visible": false
+      },
+      "audit_asta_guidata": {
+        "title": "audit_asta_guidata",
+        "user_visible": false
+      },
+      "svincoli_consigliati": {
+        "title": "svincoli_consigliati",
+        "user_visible": false
+      },
+      "piano_asta": {
+        "title": "piano_asta",
+        "user_visible": false
+      },
+      "dizionario_statistiche": {
+        "title": "dizionario_statistiche",
+        "user_visible": false
+      },
+      "dati": {
+        "title": "dati",
+        "user_visible": false
+      },
+      "team_stats": {
+        "title": "team_stats",
+        "user_visible": false
+      },
+      "_engine_meta": {
+        "title": "_engine_meta",
+        "user_visible": false
+      },
+      "fixtures": {
+        "title": "fixtures",
+        "user_visible": false
+      },
+      "prediction_history": {
+        "title": "prediction_history",
+        "user_visible": false
+      },
+      "prediction_backtest": {
+        "title": "prediction_backtest",
+        "user_visible": false
+      },
+      "model_calibration": {
+        "title": "model_calibration",
+        "user_visible": false
+      },
+      "team_history": {
+        "title": "team_history",
+        "user_visible": false
+      },
+      "player_history": {
+        "title": "player_history",
+        "user_visible": false
+      },
+      "mantra_rankings": {
+        "title": "mantra_rankings",
+        "user_visible": false
+      },
+      "fantacalcio": {
+        "title": "fantacalcio",
+        "user_visible": false
+      },
+      "player_trends": {
+        "title": "player_trends",
+        "user_visible": false
+      },
+      "@app::dashboard": {
+        "title": "Dashboard",
+        "user_visible": true
+      },
+      "@app::leagues": {
+        "title": "Le mie leghe",
+        "user_visible": true
+      },
+      "@app::personal": {
+        "title": "Motori personali",
+        "user_visible": true
+      },
+      "@app::updates": {
+        "title": "Aggiornamenti",
+        "user_visible": true
+      },
+      "@app::admin": {
+        "title": "SuperAdmin",
+        "user_visible": false
+      }
+    },
+    "data": {
+      "url": "",
+      "sha256": ""
+    },
+    "installer": {
+      "url": "",
+      "sha256": ""
+    },
+    "licenses": [
+      {
+        "device": "FST-7673A9-1EA23A-A2AA75",
+        "token_sha256": "e1ad318496c81a0cbe981a6905be311d6ed4fb3ce13460c89eddb97c4501af24",
+        "issued_on": "2026-10-18",
+        "expires": "2027-10-18",
+        "revoked": false
+      }
+    ]
+  },
+  "signature": "NGqRiARLQxnSXR1MReMTU/48Xo7OL+aHOQ9ngpaxLhNBFT1/AysU0TAWyasuk4MlDPqHXWV6vOsTCAqQ25JaAQ==",
+  "algorithm": "Ed25519"
+}
