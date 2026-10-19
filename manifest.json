@@ -1,7 +1,7 @@
 {
   "payload": {
     "schema": 1,
-    "published_at": "2026-10-19T11:06:36.405738+00:00",
+    "published_at": "2026-10-19T15:13:34.387901+00:00",
     "app_version": 9,
     "data_version": "20261018",
     "minimum_version": 1,
@@ -202,9 +202,16 @@
         "issued_on": "2026-10-18",
         "expires": "2027-10-18",
         "revoked": false
+      },
+      {
+        "device": "FST-7C10EF-417450-8A93E7",
+        "token_sha256": "668d8a92d42c63d19ad4066019979d3c1a6c9dbc1b51e3842e88bc79d9b3ec22",
+        "issued_on": "2026-10-19",
+        "expires": "2026-11-19",
+        "revoked": false
       }
     ]
   },
-  "signature": "ygk8W0/h4uBUgxwken6SGGJfE8oCfYIvdwhUPQKsVmz6JqmKDYEQYMV88Ad/hhYcMGIoXTS18XdLkWWQi/rCCg==",
+  "signature": "j3L/omMk0gLwKPvO6mrPbX8qqsO9FcM3BkMmMA4deJzy3TYlxzt8PIWAzykY27AfvLuBoIwhKohuJkWFqNDbBQ==",
   "algorithm": "Ed25519"
 }
