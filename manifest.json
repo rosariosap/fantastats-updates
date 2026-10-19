@@ -1,8 +1,8 @@
 {
   "payload": {
     "schema": 1,
-    "published_at": "2026-10-18T20:10:22.897824+00:00",
-    "app_version": 8,
+    "published_at": "2026-10-19T11:06:36.405738+00:00",
+    "app_version": 9,
     "data_version": "20261018",
     "minimum_version": 1,
     "pages": {
@@ -79,7 +79,7 @@
         "user_visible": true
       },
       "rosa_pre_mercato": {
-        "title": "Rosa prima del mercato",
+        "title": "Rosa PRE - POST Mercato",
         "user_visible": true
       },
       "rosa_pre_mercato_storico": {
@@ -181,6 +181,10 @@
       "@app::admin": {
         "title": "SuperAdmin",
         "user_visible": false
+      },
+      "mercato_sessione": {
+        "title": "Confronto dopo il mercato",
+        "user_visible": false
       }
     },
     "data": {
@@ -188,8 +192,8 @@
       "sha256": ""
     },
     "installer": {
-      "url": "https://github.com/rosariosap/fantastats-updates/releases/download/v5.2.1/FantaStats_Setup_USER_5_2_1.exe",
-      "sha256": "c1a5f287d2d1af67abf1286418464c52292f6838462dd8780df73368ca17022e"
+      "url": "https://github.com/rosariosap/fantastats-updates/releases/download/v5.2.2/FantaStats_Setup_USER_5_2_2.exe",
+      "sha256": "3c7271aab59b19ae74d861c2aee6a22440ee15d8cc8de27835582eeb7ba51fc8"
     },
     "licenses": [
       {
@@ -201,6 +205,6 @@
       }
     ]
   },
-  "signature": "NJG7KwuCKv5CLXb0fzRRFuWO3NAawPdGoEloTGEefiz7PSqtaigIdZ4WGl6Vlvl+tTXtJpI7s8yQYL5Zt04VBA==",
+  "signature": "ygk8W0/h4uBUgxwken6SGGJfE8oCfYIvdwhUPQKsVmz6JqmKDYEQYMV88Ad/hhYcMGIoXTS18XdLkWWQi/rCCg==",
   "algorithm": "Ed25519"
 }
