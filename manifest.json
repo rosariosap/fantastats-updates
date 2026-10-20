@@ -1,9 +1,9 @@
 {
   "payload": {
     "schema": 1,
-    "published_at": "2026-10-19T15:13:34.387901+00:00",
-    "app_version": 9,
-    "data_version": "20261018",
+    "published_at": "2026-10-20T16:28:56.125821+00:00",
+    "app_version": 10,
+    "data_version": "20261020-g7",
     "minimum_version": 1,
     "pages": {
       "engine_health": {
@@ -188,12 +188,12 @@
       }
     },
     "data": {
-      "url": "",
-      "sha256": ""
+      "url": "https://github.com/rosariosap/fantastats-updates/releases/download/v5.2.3/FantaStats_Dati_20261020.xlsx",
+      "sha256": "231cd4e7d63a1c0b497d3f772c1d7165a9056214d0cb53ec7df34c7acfa40891"
     },
     "installer": {
-      "url": "https://github.com/rosariosap/fantastats-updates/releases/download/v5.2.2/FantaStats_Setup_USER_5_2_2.exe",
-      "sha256": "3c7271aab59b19ae74d861c2aee6a22440ee15d8cc8de27835582eeb7ba51fc8"
+      "url": "https://github.com/rosariosap/fantastats-updates/releases/download/v5.2.3/FantaStats_Setup_USER_5_2_3.exe",
+      "sha256": "559fbb2e9f366824662bc8bb9519daa247224af897ffa6185c60d71418dc9728"
     },
     "licenses": [
       {
@@ -212,6 +212,6 @@
       }
     ]
   },
-  "signature": "j3L/omMk0gLwKPvO6mrPbX8qqsO9FcM3BkMmMA4deJzy3TYlxzt8PIWAzykY27AfvLuBoIwhKohuJkWFqNDbBQ==",
+  "signature": "nk17UWFGo/F/np0tOZWoKSmZ1kguUDUeZJs1cnUcg7mk0AMysay0MjXhn7Z6MSFWb8NmxfDYgrOWZQmRLLR0Dg==",
   "algorithm": "Ed25519"
 }
